@@ -1,14 +1,14 @@
 {
   "bot-account": {
-    "username": "Sub_to_bejtube",
+    "username": "Server_Mangment_BoT",
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "bej.aternos.me",
-    "port": 32130,
-    "version": "1.12.2"
+    "ip": "DEROM.aternos.me",
+    "port": 46113,
+    "version": "1.18.2"
   },
 
   "position": {
